@@ -84,6 +84,7 @@
     "tip": "Das Nudelwasser macht die Sauce schön sämig."
    }
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -196,6 +197,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -354,6 +356,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -523,6 +526,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -654,6 +658,7 @@
   "seasons": [
    "autumn"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -772,6 +777,7 @@
     "text": "Mit Salz abschmecken und mit dem Reis servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -909,6 +915,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -1028,6 +1035,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -1142,6 +1150,7 @@
    "summer",
    "autumn"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -1286,6 +1295,7 @@
     "text": "Spaghetti abgießen, mit der Sauce anrichten und mit frisch geriebenem Parmesan servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -1378,6 +1388,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -1496,6 +1507,7 @@
   "seasons": [
    "autumn"
   ],
+  "course": "savory",
   "effort": "high",
   "free": true
  },
@@ -1588,6 +1600,7 @@
     "text": "Alles anrichten und mit dem Dill-Quark servieren."
    }
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -1688,6 +1701,7 @@
   "seasons": [
    "spring"
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -1827,6 +1841,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -1943,6 +1958,7 @@
     "text": "Die Seiten einschlagen, fest aufrollen, halbieren und genießen."
    }
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -2050,6 +2066,7 @@
     "text": "Bratkartoffeln mit den Spiegeleiern anrichten und mit Schnittlauch bestreuen."
    }
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -2148,6 +2165,7 @@
    }
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low",
   "free": true
  },
@@ -2273,6 +2291,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "high",
   "free": true
  },
@@ -2400,6 +2419,7 @@
     "text": "Mit Sesam bestreuen und sofort servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -2487,6 +2507,7 @@
   "seasons": [
    "autumn"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -2614,6 +2635,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -2745,6 +2767,7 @@
   "occasions": [
    "halloween"
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -2866,6 +2889,7 @@
     "text": "Mit Pfeffer abschmecken und mit dem Reis servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -2991,6 +3015,7 @@
     "text": "Brötchen mit Ketchup und Mayo bestreichen und mit Salat, Patty, Tomate, Zwiebel und Gurken stapeln."
    }
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -3093,6 +3118,7 @@
     "text": "Nudeln abgießen, mit der Sauce mischen, mit Zitronensaft und Pfeffer abschmecken."
    }
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -3201,6 +3227,7 @@
     "text": "Tortellini abgießen, in die Sauce geben, Parmesan unterrühren und servieren."
    }
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -3322,6 +3349,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -3448,6 +3476,7 @@
     "text": "Frikadellen mit dem Püree anrichten."
    }
   ],
+  "course": "savory",
   "effort": "high",
   "free": true
  },
@@ -3561,6 +3590,7 @@
     "text": "Ei, Sojasauce, Sesamöl und Frühlingszwiebeln untermischen und servieren."
    }
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -3670,6 +3700,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -3790,6 +3821,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -3883,6 +3915,7 @@
   "seasons": [
    "spring"
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -4007,6 +4040,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -4152,6 +4186,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -4262,6 +4297,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -4377,6 +4413,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -4486,6 +4523,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -4614,6 +4652,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -4752,6 +4791,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -4880,6 +4920,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -4999,6 +5040,7 @@
    "summer",
    "autumn"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -5145,6 +5187,7 @@
   "seasons": [
    "autumn"
   ],
+  "course": "savory",
   "effort": "high",
   "free": true
  },
@@ -5277,6 +5320,7 @@
   "occasions": [
    "halloween"
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -5394,6 +5438,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "high",
   "free": true
  },
@@ -5551,6 +5596,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "high",
   "free": true
  },
@@ -5712,6 +5758,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "high",
   "free": true
  },
@@ -5823,6 +5870,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "high",
   "free": true
  },
@@ -5960,6 +6008,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -6116,6 +6165,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "high",
   "free": true
  },
@@ -6250,6 +6300,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -6385,6 +6436,7 @@
   "occasions": [
    "christmas"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -6571,6 +6623,7 @@
    "advent",
    "christmas"
   ],
+  "course": "savory",
   "effort": "high",
   "free": true
  },
@@ -6709,6 +6762,7 @@
    "advent",
    "christmas"
   ],
+  "course": "savory",
   "effort": "high",
   "free": true
  },
@@ -6824,6 +6878,7 @@
    "christmas"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low",
   "free": true
  },
@@ -6959,6 +7014,7 @@
    "christmas",
    "newyear"
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -7048,6 +7104,7 @@
     "text": "Sofort mit extra Pecorino und Pfeffer servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -7126,6 +7183,7 @@
     "text": "Sofort servieren, mit extra Pfeffer."
    }
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -7256,6 +7314,7 @@
     "text": "Parmesan unterheben und mit Basilikum servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -7367,6 +7426,7 @@
     "text": "Nudeln mit etwas Nudelwasser in die Sauce geben, durchschwenken und mit Petersilie servieren."
    }
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -7505,6 +7565,7 @@
     "text": "Schnitzel mit Zitronenspalten und dem Gurkensalat servieren."
    }
   ],
+  "course": "savory",
   "effort": "high",
   "free": true
  },
@@ -7610,6 +7671,7 @@
     "text": "Mit dem Saft der zweiten Zitrone beträufeln und servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -7771,6 +7833,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "high",
   "free": true
  },
@@ -7905,6 +7968,7 @@
   "seasons": [
    "spring"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -8050,6 +8114,7 @@
     "text": "Mit Naan und einem Klecks Joghurt servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -8191,6 +8256,7 @@
   "seasons": [
    "autumn"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -8319,6 +8385,7 @@
     "text": "Stärke mit 2 EL Wasser verrühren und die Sauce damit binden. Mit Sichuanpfeffer und Frühlingszwiebeln bestreuen und mit Reis servieren."
    }
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -8440,6 +8507,7 @@
     "text": "Reis, Brokkoli und Tofu anrichten, Sauce darüber und mit Frühlingszwiebeln bestreuen."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -8576,6 +8644,7 @@
     "text": "Sprossen und Frühlingszwiebeln unterheben. Mit Erdnüssen und Limettenspalten servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -8701,6 +8770,7 @@
    "summer",
    "autumn"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -8847,6 +8917,7 @@
     "text": "Reis in Schüsseln geben, Gemüse und Kimchi kreisförmig darauf anrichten, Ei in die Mitte setzen. Mit Sesam bestreuen und mit Sauce servieren. Vor dem Essen alles kräftig vermischen!"
    }
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -8968,6 +9039,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -9106,6 +9178,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -9261,6 +9334,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -9391,6 +9465,7 @@
     "text": "Hummus in Schüsseln streichen, Salat und Röstkichererbsen darauf, mit Olivenöl beträufeln und mit warmem Fladenbrot servieren."
    }
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -9509,6 +9584,7 @@
     "text": "Mujadara mit den Röstzwiebeln, Petersilie und Zitronenjoghurt servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -9642,6 +9718,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -9756,6 +9833,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -9864,6 +9942,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -9973,6 +10052,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -10141,6 +10221,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -10299,6 +10380,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -10415,6 +10497,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -10500,6 +10583,7 @@
    "spring",
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -10606,6 +10690,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -10684,6 +10769,7 @@
     "text": "Nudeln mit der Sauce vermengen und mit Parmesan servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -10797,6 +10883,7 @@
   "seasons": [
    "spring"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -10927,6 +11014,7 @@
   "seasons": [
    "spring"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -11029,6 +11117,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -11132,6 +11221,7 @@
     "text": "Mit Basilikum und einem Schuss Olivenöl servieren. Zweite Pizza genauso backen."
    }
   ],
+  "course": "savory",
   "effort": "high",
   "free": true
  },
@@ -11222,6 +11312,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -11335,6 +11426,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -11475,6 +11567,7 @@
   "seasons": [
    "spring"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -11567,6 +11660,7 @@
     "text": "Mit frischem Basilikum servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -11705,6 +11799,7 @@
   "seasons": [
    "autumn"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -11844,6 +11939,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -11954,6 +12050,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -12073,6 +12170,7 @@
   "seasons": [
    "spring"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -12194,6 +12292,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -12274,6 +12373,7 @@
     "text": "Kurz ruhen lassen und in Stücke schneiden."
    }
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -12418,6 +12518,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -12547,6 +12648,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -12688,6 +12790,7 @@
    "spring",
    "winter"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -12825,6 +12928,7 @@
   "seasons": [
    "autumn"
   ],
+  "course": "savory",
   "effort": "high",
   "free": true
  },
@@ -12939,6 +13043,7 @@
    "winter"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "medium",
   "free": true
  },
@@ -13041,6 +13146,7 @@
    "winter"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low",
   "free": true
  },
@@ -13157,6 +13263,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -13285,6 +13392,7 @@
    "summer",
    "autumn"
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -13429,6 +13537,7 @@
     "text": "Tortillas mit Bohnen, Avocado, Tomaten, Zwiebeln, Käse, saurer Sahne und Koriander füllen."
    }
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -13545,6 +13654,7 @@
     "text": "In Stücke schneiden und mit saurer Sahne, Salsa, Koriander und Limette servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -13676,6 +13786,7 @@
     "text": "Tortillas mit Bohnen, Ei und Salsa belegen. Mit Avocado, Feta und Koriander servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -13794,6 +13905,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -13925,6 +14037,7 @@
   "occasions": [
    "christmas"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -14044,6 +14157,7 @@
   "seasons": [
    "spring"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -14179,6 +14293,7 @@
    "spring",
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -14324,6 +14439,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -14440,6 +14556,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -14583,6 +14700,7 @@
   "occasions": [
    "halloween"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -14733,6 +14851,7 @@
   "seasons": [
    "autumn"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -14856,6 +14975,7 @@
   "occasions": [
    "advent"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -14979,6 +15099,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -15103,6 +15224,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -15256,6 +15378,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -15389,6 +15512,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -15510,6 +15634,7 @@
     "text": "Mit Reis servieren und mit Sesam und Frühlingszwiebeln bestreuen."
    }
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -15653,6 +15778,7 @@
     "text": "Mit Reis und Petersilie servieren."
    }
   ],
+  "course": "savory",
   "effort": "high",
   "free": true
  },
@@ -15781,6 +15907,7 @@
   "seasons": [
    "autumn"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -15893,6 +16020,7 @@
     "text": "Mit Zitronenjoghurt und Koriander servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -16014,6 +16142,7 @@
    "spring",
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -16138,6 +16267,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -16278,6 +16408,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -16400,6 +16531,7 @@
     "text": "Würste in Scheiben schneiden, Sauce darüber, mit Currypulver bestäuben und mit Pommes servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -16542,6 +16674,7 @@
     "text": "Mit Reis servieren."
    }
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -16683,6 +16816,7 @@
     "tip": "Erst ganz zum Schluss unterheben, sonst wird die Kruste weich."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -16786,6 +16920,7 @@
     "text": "Reis in Schalen geben, Hähnchen-Ei mit Sauce darübergleiten lassen und mit Frühlingszwiebeln bestreuen."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -16930,6 +17065,7 @@
     "text": "Mit Reis, Gurke und Kimchi anrichten und mit Frühlingszwiebeln und Sesam bestreuen."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -17061,6 +17197,7 @@
     "text": "In Streifen schneiden und mit abgetropftem Kohl, Zitrone, Reis und Sauce servieren."
    }
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -17202,6 +17339,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -17351,6 +17489,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -17501,6 +17640,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -17617,6 +17757,7 @@
     "text": "Mit Pfeffer, Kräuterbutter, Kartoffeln und Feldsalat mit Balsamico servieren."
    }
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -17711,6 +17852,7 @@
     "text": "Mit restlichem Pecorino und Pfeffer servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -17829,6 +17971,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium",
   "free": true
  },
@@ -17961,6 +18104,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -18131,6 +18275,7 @@
   "occasions": [
    "christmas"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -18235,6 +18380,7 @@
    "spring",
    "autumn"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -18348,6 +18494,7 @@
   "occasions": [
    "newyear"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -18462,6 +18609,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -18586,6 +18734,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "low",
   "free": true
  },
@@ -18719,6 +18868,7 @@
   "occasions": [
    "christmas"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -18850,6 +19000,7 @@
   "occasions": [
    "newyear"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -18980,6 +19131,7 @@
     "text": "Alles in der Pfanne anrichten, Sauce darübergeben und mit Dill bestreuen."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -19087,6 +19239,7 @@
    "spring",
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -19188,6 +19341,7 @@
   "occasions": [
    "newyear"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -19305,6 +19459,7 @@
    "spring",
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -19407,6 +19562,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -19509,6 +19665,7 @@
   "occasions": [
    "christmas"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -19672,6 +19829,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -19803,6 +19961,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -19947,6 +20106,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -20019,6 +20179,7 @@
     "text": "Mit Paprika bestäuben und heiß servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -20138,6 +20299,7 @@
    "christmas",
    "newyear"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -20223,6 +20385,7 @@
     "text": "Mit Parmesan bestreuen und sofort servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -20298,6 +20461,7 @@
     "tip": "Nie auf der heißen Platte! Sonst klumpt der Käse."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -20388,6 +20552,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -20519,6 +20684,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -20614,6 +20780,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -20724,6 +20891,7 @@
   "occasions": [
    "halloween"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -20821,6 +20989,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -20917,6 +21086,7 @@
   "seasons": [
    "autumn"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -21043,6 +21213,7 @@
   "seasons": [
    "autumn"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -21126,6 +21297,7 @@
     "text": "Penne mit etwas Nudelwasser in der Sauce schwenken und mit Petersilie bestreuen."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -21252,6 +21424,7 @@
   "seasons": [
    "autumn"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -21356,6 +21529,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -21460,6 +21634,7 @@
     "text": "Nudeln in der Sauce schwenken, mit Petersilie bestreuen."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -21573,6 +21748,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -21721,6 +21897,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -21839,6 +22016,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -21926,6 +22104,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -22008,6 +22187,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -22098,6 +22278,7 @@
    }
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "high"
  },
  {
@@ -22227,6 +22408,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -22303,6 +22485,7 @@
    }
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low",
   "free": true
  },
@@ -22386,6 +22569,7 @@
    "summer"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low"
  },
  {
@@ -22478,6 +22662,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -22593,6 +22778,7 @@
     "label": "Überbacken"
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -22675,6 +22861,7 @@
     "text": "Mit Parmesan, Pfeffer und etwas Zitronenschale servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -22775,6 +22962,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -22883,6 +23071,7 @@
    "spring",
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -23032,6 +23221,7 @@
   "occasions": [
    "christmas"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -23144,6 +23334,7 @@
     "text": "Kartoffelsalat mit Schnittlauch bestreuen und alles mit süßem Senf servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -23254,6 +23445,7 @@
   "seasons": [
    "autumn"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -23364,6 +23556,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -23452,6 +23645,7 @@
    "summer"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low"
  },
  {
@@ -23563,6 +23757,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -23691,6 +23886,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -23805,6 +24001,7 @@
     "text": "Schnitzel mit Soße übergießen, mit Petersilie bestreuen und mit Spätzle servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -23914,6 +24111,7 @@
   "seasons": [
    "spring"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -24016,6 +24214,7 @@
    "winter"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "high"
  },
  {
@@ -24113,6 +24312,7 @@
    "autumn"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "medium"
  },
  {
@@ -24201,6 +24401,7 @@
    }
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low"
  },
  {
@@ -24346,6 +24547,7 @@
    "christmas",
    "advent"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -24456,6 +24658,7 @@
   "occasions": [
    "christmas"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -24591,6 +24794,7 @@
   "occasions": [
    "christmas"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -24699,6 +24903,7 @@
    "newyear",
    "christmas"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -24814,6 +25019,7 @@
   "occasions": [
    "newyear"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -24937,6 +25143,7 @@
     "text": "Kartoffeln mit warmer Milch, Butter und Muskat stampfen. Alles zusammen servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -25039,6 +25246,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -25143,6 +25351,7 @@
   "seasons": [
    "spring"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -25250,6 +25459,7 @@
    }
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "medium"
  },
  {
@@ -25343,6 +25553,7 @@
    "winter",
    "spring"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -25457,6 +25668,7 @@
     "text": "Steaks salzen, mit Soße und einem Berg Röstzwiebeln servieren."
    }
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -25560,6 +25772,7 @@
     "text": "Mit Gewürzgurken servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -25686,6 +25899,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -25781,6 +25995,7 @@
    "spring",
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -25874,6 +26089,7 @@
    "spring"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low",
   "free": true
  },
@@ -25987,6 +26203,7 @@
    "autumn"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "high"
  },
  {
@@ -26096,6 +26313,7 @@
    "spring",
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -26218,6 +26436,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -26350,6 +26569,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -26472,6 +26692,7 @@
     "text": "Mit Koriander bestreut servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -26588,6 +26809,7 @@
     "text": "Mit Fischsauce, Zucker und Limette abschmecken, Basilikum unterheben und mit Reis servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -26717,6 +26939,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -26854,6 +27077,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -26979,6 +27203,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -27096,6 +27321,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -27211,6 +27437,7 @@
     "text": "Reis mit Spiegelei, Gurkenscheiben und Krupuk servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -27325,6 +27552,7 @@
     "tip": "Wok richtig heiß und nicht zu voll: Dann bekommen die Nudeln Röstaromen."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -27457,6 +27685,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -27591,6 +27820,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -27711,6 +27941,7 @@
     "text": "Nudeln und Pak Choi auf die Soße geben, Hack darauf, mit Frühlingszwiebeln und restlichem Pfeffer bestreuen. Am Tisch umrühren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -27830,6 +28061,7 @@
     "text": "Deckel abnehmen und weiterbraten, bis der Boden wieder knusprig ist. Mit Dip aus Soja, Essig und Chiliöl servieren."
    }
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -27935,6 +28167,7 @@
     "label": "Curry andicken"
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -28056,6 +28289,7 @@
     "tip": "Soße erst ganz am Ende zugeben, dann bleibt der Tofu knusprig."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -28171,6 +28405,7 @@
     "text": "Nudeln und Soße dazu und alles kräftig durchbraten. Mit Frühlingszwiebeln servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -28291,6 +28526,7 @@
     "text": "Mit Kohl, Zitronenspalten, Mayonnaise und Reis servieren."
    }
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -28407,6 +28643,7 @@
     "text": "Mit Ei, Frühlingszwiebeln, zerbröseltem Nori und Sesam servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -28532,6 +28769,7 @@
   "occasions": [
    "newyear"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -28638,6 +28876,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -28751,6 +28990,7 @@
     "tip": "Die leicht angebrannten Stellen sind gewollt. Das ist das Wok-Aroma."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -28861,6 +29101,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -28943,6 +29184,7 @@
    "summer"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low"
  },
  {
@@ -29054,6 +29296,7 @@
   "occasions": [
    "newyear"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -29173,6 +29416,7 @@
    "summer",
    "autumn"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -29275,6 +29519,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -29391,6 +29636,7 @@
   "occasions": [
    "newyear"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -29512,6 +29758,7 @@
     "text": "Soße und Sprossen dazugeben, durchschwenken, mit Sesamöl und Frühlingszwiebeln servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -29637,6 +29884,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -29751,6 +29999,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -29895,6 +30144,7 @@
     "text": "Abschmecken und mit Koriander und Reis servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -30046,6 +30296,7 @@
   "occasions": [
    "newyear"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -30186,6 +30437,7 @@
     "label": "Korma köcheln"
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -30303,6 +30555,7 @@
     "text": "Spinat portionsweise unterheben und zusammenfallen lassen. Mit Garam Masala und Salz abschmecken, mit Naan servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -30428,6 +30681,7 @@
     "text": "Abschmecken und mit Koriander und Reis servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -30553,6 +30807,7 @@
    "summer",
    "autumn"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -30693,6 +30948,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -30796,6 +31052,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -30933,6 +31190,7 @@
     "text": "Brot mit Soße bestreichen, mit Hähnchen, Gemüse und Petersilie füllen und einrollen."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -31062,6 +31320,7 @@
     "text": "Mit Salat, Petersilie und Zitronensaft belegen, aufrollen und essen."
    }
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -31187,6 +31446,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -31315,6 +31575,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -31434,6 +31695,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -31532,6 +31794,7 @@
    "summer",
    "spring"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -31659,6 +31922,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -31784,6 +32048,7 @@
     "text": "Pitas warm machen, mit Hummus bestreichen und mit Aubergine, Ei, Salat und Gurken füllen. Tahini darüber."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -31907,6 +32172,7 @@
     "text": "Reis-Linsen, Nudeln und Kichererbsen in Schalen schichten, Soße darüber, mit Röstzwiebeln krönen."
    }
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -32055,6 +32321,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -32193,6 +32460,7 @@
   "occasions": [
    "christmas"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -32341,6 +32609,7 @@
     "label": "Kochbananen braten"
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -32469,6 +32738,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -32614,6 +32884,7 @@
     "label": "Reis"
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -32784,6 +33055,7 @@
    "summer",
    "autumn"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -32914,6 +33186,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -33039,6 +33312,7 @@
     "text": "Mit Tzatziki, Tomaten, restlicher Zwiebel in Ringen und warmem Fladenbrot servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -33178,6 +33452,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -33306,6 +33581,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -33438,6 +33714,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -33541,6 +33818,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -33690,6 +33968,7 @@
   "occasions": [
    "newyear"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -33775,6 +34054,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -33882,6 +34162,7 @@
     "text": "Mayonnaise mit restlichem geriebenem Knoblauch und Zitronensaft verrühren. Kartoffeln mit beiden Soßen servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -34009,6 +34290,7 @@
     "text": "Mit Petersilie bestreuen und mit Baguette servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -34134,6 +34416,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -34241,6 +34524,7 @@
     "text": "Mit Petersilie bestreuen und mit Brot zum Tunken servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -34381,6 +34665,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -34477,6 +34762,7 @@
     "label": "Gratinieren"
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -34622,6 +34908,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -34749,6 +35036,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -34888,6 +35176,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -35000,6 +35289,7 @@
     "tip": "Senf erst am Ende zugeben, zumindest den körnigen. Gekocht wird er mild."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -35090,6 +35380,7 @@
    }
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low"
  },
  {
@@ -35173,6 +35464,7 @@
     "text": "Ränder quadratisch einklappen, sodass das Eigelb sichtbar bleibt. Mit Rucola servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -35248,6 +35540,7 @@
    "autumn"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "high"
  },
  {
@@ -35370,6 +35663,7 @@
     "text": "Mit Pommes, Erbsen, Zitrone und einem Spritzer Essig servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -35517,6 +35811,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -35637,6 +35932,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -35775,6 +36071,7 @@
     "text": "Mit Frühlingszwiebeln bestreuen und servieren."
    }
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -35902,6 +36199,7 @@
   "seasons": [
    "autumn"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -36000,6 +36298,7 @@
    }
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low"
  },
  {
@@ -36121,6 +36420,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -36256,6 +36556,7 @@
     "text": "Mit saurer Sahne und Koriander servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -36388,6 +36689,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -36519,6 +36821,7 @@
     "text": "Mit Tinga, Avocado, Käse, Koriander und Limette belegen."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -36616,6 +36919,7 @@
     "text": "Arepas seitlich aufschneiden und mit Bohnen, Avocado, Käse und Koriander füllen."
    }
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -36713,6 +37017,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -36829,6 +37134,7 @@
   "occasions": [
    "newyear"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -36955,6 +37261,7 @@
     "text": "Pommes unterheben, mit Koriander bestreuen und mit Reis servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -37076,6 +37383,7 @@
     "text": "Alles in Schalen anrichten, Avocado in Scheiben dazu und mit Dressing beträufeln."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -37187,6 +37495,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -37306,6 +37615,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -37427,6 +37737,7 @@
   "occasions": [
    "christmas"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -37555,6 +37866,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -37679,6 +37991,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -37795,6 +38108,7 @@
    "christmas",
    "advent"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -37903,6 +38217,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -38054,6 +38369,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -38175,6 +38491,7 @@
   "seasons": [
    "autumn"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -38287,6 +38604,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -38392,6 +38710,7 @@
   "seasons": [
    "spring"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -38494,6 +38813,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -38636,6 +38956,7 @@
     "tip": "Der Schuss Sojasauce bringt die herzhafte Tiefe, die sonst das Fleisch liefert."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -38761,6 +39082,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -38888,6 +39210,7 @@
   "occasions": [
    "halloween"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -39013,6 +39336,7 @@
   "occasions": [
    "christmas"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -39178,6 +39502,7 @@
   "occasions": [
    "christmas"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -39332,6 +39657,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -39454,6 +39780,7 @@
    "winter",
    "spring"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -39566,6 +39893,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -39663,6 +39991,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -39773,6 +40102,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -39879,6 +40209,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -39972,6 +40303,7 @@
     "text": "Feta, Tomaten und Knoblauch in der Form zu einer Soße zerdrücken, Nudeln und etwas Nudelwasser untermischen. Mit Basilikum servieren."
    }
   ],
+  "course": "savory",
   "tags": [
    "trend"
   ],
@@ -40069,6 +40401,7 @@
     "label": "Überbacken"
    }
   ],
+  "course": "savory",
   "tags": [
    "trend"
   ],
@@ -40194,6 +40527,7 @@
    "spring",
    "autumn"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -40321,6 +40655,7 @@
   "occasions": [
    "newyear"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -40425,6 +40760,7 @@
    "autumn"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "medium"
  },
  {
@@ -40537,6 +40873,7 @@
     "text": "10 Minuten ruhen lassen, dann zerteilen und mit dem Gemüse servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -40642,6 +40979,7 @@
    "spring",
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -40765,6 +41103,7 @@
     "text": "Mit den Nudeln servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -40886,6 +41225,7 @@
     "text": "Hähnchen in der Soße wenden, mit Petersilie und Spaghetti servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -40998,6 +41338,7 @@
     "text": "Mayonnaise mit Honig und Senf verrühren und als Dip servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -41119,6 +41460,7 @@
     "text": "Brötchen anrösten und mit Sriracha-Mayo, Hähnchen, Krautsalat und Gurken belegen."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -41227,6 +41569,7 @@
     "text": "Alles zusammen servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -41341,6 +41684,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -41470,6 +41814,7 @@
    "christmas",
    "easter"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -41609,6 +41954,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -41735,6 +42081,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -41864,6 +42211,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -41994,6 +42342,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -42117,6 +42466,7 @@
     "text": "Mit Petersilie bestreuen und mit Reis servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -42246,6 +42596,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -42358,6 +42709,7 @@
     "text": "Mit Zitronenspalten servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -42469,6 +42821,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -42612,6 +42965,7 @@
     "text": "Mit Dill bestreuen und mit Kartoffeln und Gurkensalat servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -42727,6 +43081,7 @@
     "label": "Erbsen kochen"
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -42849,6 +43204,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -42986,6 +43342,7 @@
     "text": "Mit Limettensaft und Koriander abschmecken und mit Reis servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -43096,6 +43453,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -43214,6 +43572,7 @@
     "text": "Mit Fischsauce, Zucker und Limette abschmecken, Basilikum unterheben, mit Reis servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -43350,6 +43709,7 @@
   "occasions": [
    "christmas"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -43467,6 +43827,7 @@
    "christmas",
    "newyear"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -43596,6 +43957,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -43701,6 +44063,7 @@
     "text": "Mit Zitronenspalten servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -43852,6 +44215,7 @@
    "newyear",
    "christmas"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -43945,6 +44309,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -44057,6 +44422,7 @@
    "easter"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "high"
  },
  {
@@ -44163,6 +44529,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -44282,6 +44649,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -44415,6 +44783,7 @@
    "easter"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "medium"
  },
  {
@@ -44525,6 +44894,7 @@
   "occasions": [
    "halloween"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -44633,6 +45003,7 @@
    "halloween"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "high"
  },
  {
@@ -44722,6 +45093,7 @@
   "occasions": [
    "halloween"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -44843,6 +45215,7 @@
   "occasions": [
    "halloween"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -44944,6 +45317,7 @@
    "christmas"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "high",
   "free": true
  },
@@ -45025,6 +45399,7 @@
    "christmas"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "high"
  },
  {
@@ -45093,6 +45468,7 @@
    "christmas"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low"
  },
  {
@@ -45186,6 +45562,7 @@
    "christmas"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low"
  },
  {
@@ -45317,6 +45694,7 @@
   "occasions": [
    "newyear"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -45436,6 +45814,7 @@
   "occasions": [
    "newyear"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -45548,6 +45927,7 @@
    "newyear",
    "christmas"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -45616,6 +45996,7 @@
    }
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low",
   "free": true
  },
@@ -45688,6 +46069,7 @@
    }
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "medium"
  },
  {
@@ -45795,6 +46177,7 @@
    "winter"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low"
  },
  {
@@ -45898,6 +46281,7 @@
    "newyear"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "medium"
  },
  {
@@ -46012,6 +46396,7 @@
    }
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "medium",
   "free": true
  },
@@ -46105,6 +46490,7 @@
    }
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low"
  },
  {
@@ -46204,6 +46590,7 @@
    }
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "low",
   "free": true
  },
@@ -46308,6 +46695,7 @@
    "autumn"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "high"
  },
  {
@@ -46401,6 +46789,7 @@
    "spring"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "medium"
  },
  {
@@ -46513,6 +46902,7 @@
    "winter"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "high"
  },
  {
@@ -46635,6 +47025,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -46737,6 +47128,7 @@
    "christmas"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low"
  },
  {
@@ -46849,6 +47241,7 @@
     "text": "Restliche Soja mit Essig und Chiliöl verrühren, darüberträufeln und in Stücke schneiden."
    }
   ],
+  "course": "savory",
   "tags": [
    "trend"
   ],
@@ -46960,6 +47353,7 @@
     "text": "Ketchup, Worcestershire und Soja zur Katsu-Soße verrühren. Eier halbieren und mit Reis, fein gehobeltem Kohl und Soße servieren."
    }
   ],
+  "course": "savory",
   "tags": [
    "trend"
   ],
@@ -47075,6 +47469,7 @@
   "occasions": [
    "newyear"
   ],
+  "course": "savory",
   "tags": [
    "trend"
   ],
@@ -47203,6 +47598,7 @@
     "label": "Überbacken"
    }
   ],
+  "course": "savory",
   "tags": [
    "trend"
   ],
@@ -47286,6 +47682,7 @@
   "seasons": [
    "autumn"
   ],
+  "course": "savory",
   "tags": [
    "trend"
   ],
@@ -47360,6 +47757,7 @@
    }
   ],
   "category": "baking",
+  "course": "dessert",
   "tags": [
    "trend"
   ],
@@ -47470,6 +47868,7 @@
     "text": "Schalen mit Rührei und Avocado-Salsa füllen."
    }
   ],
+  "course": "savory",
   "tags": [
    "trend"
   ],
@@ -47589,6 +47988,7 @@
    "summer"
   ],
   "category": "baking",
+  "course": "dessert",
   "tags": [
    "trend"
   ],
@@ -47694,6 +48094,7 @@
     "text": "Mit Pfeffer und Parmesan servieren."
    }
   ],
+  "course": "savory",
   "tags": [
    "trend"
   ],
@@ -47815,6 +48216,7 @@
   "occasions": [
    "christmas"
   ],
+  "course": "savory",
   "tags": [
    "trend"
   ],
@@ -47943,6 +48345,7 @@
   "occasions": [
    "christmas"
   ],
+  "course": "savory",
   "tags": [
    "trend"
   ],
@@ -48071,6 +48474,7 @@
     "text": "Reis in Schalen, Hack darauf, mit Ei, Gurke, Frühlingszwiebeln und Sesam toppen."
    }
   ],
+  "course": "savory",
   "tags": [
    "trend"
   ],
@@ -48158,6 +48562,7 @@
    "summer"
   ],
   "category": "baking",
+  "course": "dessert",
   "tags": [
    "trend"
   ],
@@ -48277,6 +48682,7 @@
    "winter",
    "spring"
   ],
+  "course": "savory",
   "tags": [
    "trend"
   ],
@@ -48400,6 +48806,7 @@
     "text": "Basilikum darüberzupfen und mit den Nudeln servieren."
    }
   ],
+  "course": "savory",
   "tags": [
    "trend"
   ],
@@ -48508,6 +48915,7 @@
     "text": "Kartoffeln mit Parmesan bestreuen und mit dem Dip servieren."
    }
   ],
+  "course": "savory",
   "tags": [
    "trend"
   ],
@@ -48620,6 +49028,7 @@
    }
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "high",
   "free": true
  },
@@ -48741,6 +49150,7 @@
    "autumn"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "medium",
   "free": true
  },
@@ -48847,6 +49257,7 @@
    }
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "low"
  },
  {
@@ -48941,6 +49352,7 @@
    }
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "low",
   "free": true
  },
@@ -49038,6 +49450,7 @@
    "summer"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "low"
  },
  {
@@ -49143,6 +49556,7 @@
    }
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "medium"
  },
  {
@@ -49245,6 +49659,7 @@
    }
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "high"
  },
  {
@@ -49351,6 +49766,7 @@
    "summer"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "low"
  },
  {
@@ -49471,6 +49887,7 @@
    "winter"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "high",
   "free": true
  },
@@ -49579,6 +49996,7 @@
    }
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "low"
  },
  {
@@ -49666,6 +50084,7 @@
    }
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "high"
  },
  {
@@ -49764,6 +50183,7 @@
    }
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "medium"
  },
  {
@@ -49861,6 +50281,7 @@
    "newyear"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "high"
  },
  {
@@ -49965,6 +50386,7 @@
    "summer"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "high",
   "free": true
  },
@@ -50088,6 +50510,7 @@
    "christmas"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "medium"
  },
  {
@@ -50222,6 +50645,7 @@
    "christmas"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "high"
  },
  {
@@ -50327,6 +50751,7 @@
    "christmas"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "high"
  },
  {
@@ -50411,6 +50836,7 @@
    "christmas"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "medium"
  },
  {
@@ -50508,6 +50934,7 @@
    "easter"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "low"
  },
  {
@@ -50575,6 +51002,7 @@
    }
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "medium"
  },
  {
@@ -50691,6 +51119,7 @@
    "winter"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "high"
  },
  {
@@ -50805,6 +51234,7 @@
    }
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "high"
  },
  {
@@ -50917,6 +51347,7 @@
    "easter"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "medium"
  },
  {
@@ -51007,6 +51438,7 @@
    }
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "medium"
  },
  {
@@ -51117,6 +51549,7 @@
   "seasons": [
    "spring"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -51199,6 +51632,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -51287,6 +51721,7 @@
   "seasons": [
    "spring"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -51383,6 +51818,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -51487,6 +51923,7 @@
   "seasons": [
    "spring"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -51589,6 +52026,7 @@
   "seasons": [
    "spring"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -51688,6 +52126,7 @@
   "seasons": [
    "spring"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -51788,6 +52227,7 @@
    "spring"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "high"
  },
  {
@@ -51890,6 +52330,7 @@
    "spring",
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -52008,6 +52449,7 @@
   "seasons": [
    "spring"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -52106,6 +52548,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -52219,6 +52662,7 @@
    "easter"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "high"
  },
  {
@@ -52327,6 +52771,7 @@
   "occasions": [
    "easter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -52441,6 +52886,7 @@
    "spring",
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -52544,6 +52990,7 @@
    "spring",
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -52655,6 +53102,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -52744,6 +53192,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -52848,6 +53297,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -52967,6 +53417,7 @@
    "summer",
    "autumn"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -53075,6 +53526,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -53179,6 +53631,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -53275,6 +53728,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -53374,6 +53828,7 @@
    "summer"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low"
  },
  {
@@ -53476,6 +53931,7 @@
    "summer"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "medium"
  },
  {
@@ -53609,6 +54065,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -53720,6 +54177,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -53801,6 +54259,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -53907,6 +54366,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -54021,6 +54481,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -54132,6 +54593,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -54259,6 +54721,7 @@
   "occasions": [
    "halloween"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -54367,6 +54830,7 @@
    "halloween"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "low"
  },
  {
@@ -54479,6 +54943,7 @@
   "occasions": [
    "halloween"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -54594,6 +55059,7 @@
   "occasions": [
    "halloween"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -54698,6 +55164,7 @@
   "seasons": [
    "spring"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -54796,6 +55263,7 @@
     "text": "Mit geröstetem Brot servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -54900,6 +55368,7 @@
    "summer",
    "autumn"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -55017,6 +55486,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -55121,6 +55591,7 @@
     "text": "Tahini mit restlichem Zitronensaft, Salz und Wasser cremig rühren. Alles in Schalen anrichten."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -55222,6 +55693,7 @@
     "text": "Tortillas in der trockenen Pfanne erwärmen, füllen und mit Koriander bestreuen."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -55343,6 +55815,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -55442,6 +55915,7 @@
     "tip": "Ein bisschen Zitronenschale nimmt der Sahnesauce die Schwere."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -55533,6 +56007,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -55635,6 +56110,7 @@
   "seasons": [
    "spring"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -55744,6 +56220,7 @@
     "text": "Joghurt mit Schnittlauch, Knoblauch und Salz verrühren und dazu reichen."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -55867,6 +56344,7 @@
   "seasons": [
    "summer"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -55976,6 +56454,7 @@
     "text": "Sojasauce, Honig und Sesamöl zugeben, Tofu untermischen, bis alles glänzt. Mit Sesam auf Reis servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -56067,6 +56546,7 @@
     "tip": "Butter und Sojasauce sind ein unschlagbares Paar. Die Butter rundet das Salzige ab."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -56150,6 +56630,7 @@
     "text": "Sojasauce, Reisessig und Sesam verrühren. Pfannkuchen in Stücke schneiden und mit dem Dip servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -56266,6 +56747,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -56368,6 +56850,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -56478,6 +56961,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -56588,6 +57072,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -56692,6 +57177,7 @@
   "seasons": [
    "winter"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -56797,6 +57283,7 @@
   "occasions": [
    "christmas"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -56896,6 +57383,7 @@
   "seasons": [
    "autumn"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -56996,6 +57484,7 @@
    "winter",
    "spring"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -57086,6 +57575,7 @@
     "text": "Tomaten und Spinat zugeben, bis die Tomaten platzen. Hähnchen und Pesto untermischen, mit Parmesan servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -57178,6 +57668,7 @@
    "christmas",
    "newyear"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -57289,6 +57780,7 @@
     "text": "Käse darüberstreuen, Deckel kurz auflegen, bis er schmilzt. Mit saurer Sahne servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -57407,6 +57899,7 @@
     "text": "Mayo mit gehackten Gewürzgurken, Zitronensaft und Dill verrühren. Gurke hobeln und salzen. Alles zusammen servieren."
    }
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -57502,6 +57995,7 @@
     "text": "Brokkoli mit Knoblauch und Ingwer braten, 3 EL Wasser zugeben und zugedeckt 2 Minuten dämpfen. Fleisch, Austernsauce und restliche Sojasauce zugeben, kurz schwenken. Mit Reis servieren."
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -57593,6 +58087,7 @@
   "occasions": [
    "newyear"
   ],
+  "course": "savory",
   "effort": "medium"
  },
  {
@@ -57705,6 +58200,7 @@
    "newyear"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "high"
  },
  {
@@ -57806,6 +58302,7 @@
    "christmas"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low"
  },
  {
@@ -57912,6 +58409,7 @@
    "christmas"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "high"
  },
  {
@@ -57992,6 +58490,7 @@
    }
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low"
  },
  {
@@ -58081,6 +58580,7 @@
    "summer"
   ],
   "category": "baking",
+  "course": "dessert",
   "effort": "low"
  },
  {
@@ -58183,6 +58683,7 @@
    "easter"
   ],
   "category": "baking",
+  "course": "baking",
   "effort": "medium"
  },
  {
@@ -58286,6 +58787,7 @@
    "spring",
    "summer"
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -58377,6 +58879,7 @@
     "label": "Pizza backen"
    }
   ],
+  "course": "savory",
   "effort": "low"
  },
  {
@@ -58494,6 +58997,7 @@
     "text": "Quark mit Schnittlauch, Salz und etwas Wasser cremig rühren und dazu reichen."
    }
   ],
+  "course": "savory",
   "effort": "high"
  },
  {
@@ -58601,6 +59105,7 @@
    "autumn",
    "winter"
   ],
+  "course": "savory",
   "effort": "low"
  }
 ]
