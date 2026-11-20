@@ -9119,8 +9119,7 @@
   "seasons": [
    "summer"
   ],
-  "effort": "low",
-  "free": true
+  "effort": "low"
  },
  {
   "id": "falafel",
@@ -10516,8 +10515,7 @@
    "spring",
    "summer"
   ],
-  "effort": "low",
-  "free": true
+  "effort": "low"
  },
  {
   "id": "pesto-genovese",
@@ -10701,8 +10699,7 @@
     "text": "Toss the pasta with the sauce and serve with Parmesan."
    }
   ],
-  "effort": "low",
-  "free": true
+  "effort": "low"
  },
  {
   "id": "ricotta-gnocchi",
@@ -13570,8 +13567,7 @@
     "text": "Cut into wedges and serve with sour cream, salsa, cilantro and lime."
    }
   ],
-  "effort": "low",
-  "free": true
+  "effort": "low"
  },
  {
   "id": "huevos-rancheros",
@@ -14469,8 +14465,7 @@
    "autumn",
    "winter"
   ],
-  "effort": "low",
-  "free": true
+  "effort": "low"
  },
  {
   "id": "kuerbis-kichererbsen-curry",
@@ -16437,8 +16432,7 @@
     "text": "Slice the sausages, pour over the sauce, dust with curry powder and serve with the fries."
    }
   ],
-  "effort": "low",
-  "free": true
+  "effort": "low"
  },
  {
   "id": "kung-pao",
@@ -16722,8 +16716,7 @@
     "tip": "Fold it in only at the very end, or the crust goes soft."
    }
   ],
-  "effort": "medium",
-  "free": true
+  "effort": "medium"
  },
  {
   "id": "oyakodon",
@@ -19233,8 +19226,7 @@
   "occasions": [
    "newyear"
   ],
-  "effort": "low",
-  "free": true
+  "effort": "low"
  },
  {
   "id": "shrimp-scampi",
@@ -19718,8 +19710,7 @@
    "autumn",
    "winter"
   ],
-  "effort": "high",
-  "free": true
+  "effort": "high"
  },
  {
   "id": "spaghetti-hackbaellchen",
@@ -19850,8 +19841,7 @@
    "autumn",
    "winter"
   ],
-  "effort": "medium",
-  "free": true
+  "effort": "medium"
  },
  {
   "id": "hackbraten",
@@ -20067,8 +20057,7 @@
     "text": "Dust with paprika and serve hot."
    }
   ],
-  "effort": "low",
-  "free": true
+  "effort": "low"
  },
  {
   "id": "schweinefilet-speckmantel",
@@ -22353,7 +22342,8 @@
    }
   ],
   "category": "baking",
-  "effort": "low"
+  "effort": "low",
+  "free": true
  },
  {
   "id": "panna-cotta",
@@ -25923,7 +25913,8 @@
    "spring"
   ],
   "category": "baking",
-  "effort": "low"
+  "effort": "low",
+  "free": true
  },
  {
   "id": "zwetschgenknoedel",
@@ -44992,7 +44983,8 @@
    "christmas"
   ],
   "category": "baking",
-  "effort": "high"
+  "effort": "high",
+  "free": true
  },
  {
   "id": "zimtsterne",
@@ -45663,7 +45655,8 @@
    }
   ],
   "category": "baking",
-  "effort": "low"
+  "effort": "low",
+  "free": true
  },
  {
   "id": "creme-brulee",
@@ -46058,7 +46051,8 @@
    }
   ],
   "category": "baking",
-  "effort": "medium"
+  "effort": "medium",
+  "free": true
  },
  {
   "id": "griessbrei",
@@ -46249,7 +46243,8 @@
    }
   ],
   "category": "baking",
-  "effort": "low"
+  "effort": "low",
+  "free": true
  },
  {
   "id": "zwetschgendatschi",
@@ -48664,7 +48659,8 @@
    }
   ],
   "category": "baking",
-  "effort": "high"
+  "effort": "high",
+  "free": true
  },
  {
   "id": "apfelkuchen",
@@ -48784,7 +48780,8 @@
    "autumn"
   ],
   "category": "baking",
-  "effort": "medium"
+  "effort": "medium",
+  "free": true
  },
  {
   "id": "schokokuchen",
@@ -48983,7 +48980,8 @@
    }
   ],
   "category": "baking",
-  "effort": "low"
+  "effort": "low",
+  "free": true
  },
  {
   "id": "zitronenkuchen",
@@ -49512,7 +49510,8 @@
    "winter"
   ],
   "category": "baking",
-  "effort": "high"
+  "effort": "high",
+  "free": true
  },
  {
   "id": "schoko-cookies",
@@ -50005,7 +50004,8 @@
    "summer"
   ],
   "category": "baking",
-  "effort": "high"
+  "effort": "high",
+  "free": true
  },
  {
   "id": "linzer-torte",
