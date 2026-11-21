@@ -7,7 +7,7 @@ Stand: 21. November 2026
 ## Verantwortlich
 
 Leo Härtel
-E-Mail: [KONTAKT-E-MAIL]
+E-Mail: peekpot.app@gmail.com
 
 ## Welche Daten verarbeitet werden
 
@@ -33,7 +33,7 @@ Last updated: November 21, 2026
 ## Controller
 
 Leo Härtel
-Email: [KONTAKT-E-MAIL]
+Email: peekpot.app@gmail.com
 
 ## What data is processed
 
