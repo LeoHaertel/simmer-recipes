@@ -12,7 +12,7 @@ E-Mail: peekpot.app@gmail.com
 ## Welche Daten verarbeitet werden
 
 - **Einstellungen auf deinem Gerät:** Sprache, Filter, zuletzt vorgeschlagene Rezepte, gekochte Rezepte und ob alle Rezepte freigeschaltet sind, werden nur lokal auf deinem iPhone gespeichert. Sie verlassen dein Gerät nicht.
-- **Neue Rezepte:** Peekpot prüft höchstens alle 6 Stunden, ob es neue Rezepte gibt, und lädt sie bei Bedarf von GitHub (raw.githubusercontent.com, betrieben von GitHub, Inc.). Dabei sieht GitHub technisch bedingt deine IP-Adresse, wie bei jedem Aufruf einer Webseite. Es werden keine weiteren Daten mitgeschickt. Infos von GitHub: https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement
+- **Rezepte:** Alle Rezepte sind fest in der App enthalten. Peekpot lädt nichts aus dem Internet nach und baut außer für Käufe keine Verbindung auf. Neue Rezepte kommen mit App-Updates über den App Store.
 - **Käufe:** Käufe und Trinkgeld laufen vollständig über Apple. Peekpot erhält keine Zahlungsdaten und keinen Namen, sondern nur die Bestätigung, dass ein Kauf gültig ist. Es gilt die Datenschutzrichtlinie von Apple: https://www.apple.com/legal/privacy/
 - **Bewertungen:** Die Frage nach einer Bewertung nutzt Apples eigenen Dialog. Peekpot erfährt nicht, ob oder wie du bewertest.
 
@@ -38,7 +38,7 @@ Email: peekpot.app@gmail.com
 ## What data is processed
 
 - **Settings on your device:** language, filters, recently suggested recipes, cooked recipes and whether all recipes are unlocked are stored only on your iPhone. They never leave your device.
-- **New recipes:** at most every 6 hours, Peekpot checks for new recipes and downloads them from GitHub (raw.githubusercontent.com, operated by GitHub, Inc.). As with any website request, GitHub technically sees your IP address. No other data is sent. GitHub's privacy statement: https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement
+- **Recipes:** all recipes are built into the app. Peekpot does not download anything from the internet and makes no network connections except for purchases. New recipes arrive with app updates through the App Store.
 - **Purchases:** purchases and tips are handled entirely by Apple. Peekpot receives no payment details and no name, only confirmation that a purchase is valid. Apple's privacy policy applies: https://www.apple.com/legal/privacy/
 - **Ratings:** the rating prompt uses Apple's own dialog. Peekpot does not learn whether or how you rate the app.
 
