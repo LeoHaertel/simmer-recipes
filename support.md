@@ -1,6 +1,6 @@
 # Peekpot – Hilfe & Kontakt
 
-Fragen, Fehler oder Rezeptwünsche? Schreib einfach an **peekpot.app@gmail.com**.
+Fragen, Fehler oder Rezeptwünsche? Schreib einfach an **haertel.apps@gmail.com**.
 
 **Häufige Fragen**
 
@@ -16,7 +16,7 @@ Fragen, Fehler oder Rezeptwünsche? Schreib einfach an **peekpot.app@gmail.com**
 
 # Peekpot – Help & Contact
 
-Questions, bugs or recipe wishes? Just write to **peekpot.app@gmail.com**.
+Questions, bugs or recipe wishes? Just write to **haertel.apps@gmail.com**.
 
 **FAQ**
 
